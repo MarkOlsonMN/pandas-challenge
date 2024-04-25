@@ -13,6 +13,6 @@ URL:        https://github.com/MarkOlsonMN/pandas-challenge
 ReadMe :    pandas-challenge/README.md  
 PyCitySchools ...  
 &nbsp;&nbsp;&nbsp;&nbsp;Jupyter Notebook (code) :&nbsp;&nbsp;pandas-challenge/PyCitySchools/PyCitySchools_starter.ipynb  
-&nbsp;&nbsp;&nbsp;&nbsp;Resources (data) :        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pandas-challenge/PyCitySchools/Resources/schools_complete.csv  
-&nbsp;&nbsp;&nbsp;&nbsp;Resources (data) :        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pandas-challenge/PyCitySchools/Resources/students_complete.csv  
-&nbsp;&nbsp;&nbsp;&nbsp;Analysis (report) :       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pandas-challenge/PyCitySchools/PyCitySchools_Analysis.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;Resources (data) :        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pandas-challenge/PyCitySchools/Resources/schools_complete.csv  
+&nbsp;&nbsp;&nbsp;&nbsp;Resources (data) :        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pandas-challenge/PyCitySchools/Resources/students_complete.csv  
+&nbsp;&nbsp;&nbsp;&nbsp;Analysis (report) :       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pandas-challenge/PyCitySchools/PyCitySchools_Analysis.txt  
